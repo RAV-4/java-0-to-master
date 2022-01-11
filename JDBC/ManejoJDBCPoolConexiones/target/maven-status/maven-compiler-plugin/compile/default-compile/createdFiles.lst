@@ -1,0 +1,6 @@
+test/TestManejoJDBC.class
+test/TestMySqlJDBC.class
+datos/Conexion.class
+datos/IPersonaDAO.class
+domain/PersonaDTO.class
+datos/PersonaDAOJDBC.class
